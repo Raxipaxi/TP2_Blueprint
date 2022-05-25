@@ -1,0 +1,14 @@
+[URL]
+[/Script/EngineSettings.GameMapsSettings]
+EditorStartupMap=
+GameDefaultMap=
+
+[/Script/HardwareTargeting.HardwareTargetingSettings]
+TargetedHardwareClass=Desktop
+AppliedTargetedHardwareClass=Desktop
+DefaultGraphicsPerformance=Maximum
+AppliedDefaultGraphicsPerformance=Maximum
+
+[/Script/Engine.RendererSettings]
+r.DefaultFeature.AutoExposure=False
+
