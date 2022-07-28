@@ -12,4 +12,4 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-/[Ll]evels/**/*_BuiltData.uasset
+/[Ll]evels/**/*BuiltData.uasset
